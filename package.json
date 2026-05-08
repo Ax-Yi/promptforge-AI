@@ -1,15 +1,8 @@
-{
-  "name": "promptforge-ai",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
+export default function Home() {
+  return (
+    <main>
+      <h1>PromptForge-AI</h1>
+      <p>AI Workflow Platform</p>
+    </main>
+  )
 }
