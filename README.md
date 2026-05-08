@@ -1,4 +1,6 @@
-# PromptForge-AI
+## Preview
+
+![UI](./ui.png)# PromptForge-AI
 
 基于多模型协作的 AI Prompt Playground 平台。
 
