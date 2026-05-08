@@ -54,5 +54,72 @@ app/
 components/
 lib/
 api/
-public/# promptforge-AI
-AI Prompt Playground for developers.
+public/
+```
+
+---
+
+## ⚡ Core Functions
+
+### Prompt Workspace
+
+- Create Prompt
+- Edit Prompt
+- Save Prompt
+- Prompt Tags
+- Prompt History
+
+### Multi-Model Compare
+
+Compare responses from:
+- GPT
+- Claude
+- Gemini
+- DeepSeek
+
+### Prompt Version Control
+
+- Prompt v1
+- Prompt v2
+- Prompt rollback
+
+---
+
+## 📌 Roadmap
+
+- [x] Project initialization
+- [x] README setup
+- [ ] Multi-model compare
+- [ ] Prompt version system
+- [ ] AI workflow
+- [ ] Prompt marketplace
+- [ ] VSCode extension
+
+---
+
+## 📖 Description
+
+PromptForge is an AI Prompt Playground designed for developers and AI power users.
+
+The project focuses on:
+- Prompt Engineering
+- AI Workflow
+- Multi-Agent Collaboration
+- LLM Comparison
+- AI Development Tools
+
+---
+
+## ⭐ Future Plans
+
+- AI Agent Workflow
+- RAG Integration
+- Team Collaboration
+- Prompt Optimization
+- Auto Evaluation System
+
+---
+
+## 📜 License
+
+MIT
